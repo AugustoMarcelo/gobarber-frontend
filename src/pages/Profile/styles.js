@@ -3,7 +3,7 @@ import { darken } from 'polished';
 
 export const Container = styled.div`
     max-width: 600px;
-    margin: 50px auto;
+    margin: 50px auto 0;
 
     form {
         display: flex;
@@ -51,17 +51,6 @@ export const Container = styled.div`
 
             &:hover {
                 background: ${darken(0.03, '#3b93ff')};
-            }
-        }
-
-        a {
-            color: #fff;
-            margin-top: 15px;
-            font-size: 16px;
-            opacity: 0.8;
-
-            &:hover {
-                opacity: 1;
             }
         }
     }
