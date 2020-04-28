@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="center">
-  [GoStack7] | Desafio Final (Certificação)
+  [GoStack7] | Projeto desenvolvido ao longo do curso
 </h3>
 
 ---
